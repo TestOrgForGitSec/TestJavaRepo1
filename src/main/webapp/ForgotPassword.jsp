@@ -29,7 +29,7 @@ Password Recovery:
 <table> 
 <tr><td>Username: </td><td><input type="text" name="username" id="username"/></td><td><span id="status"></span></td></tr>
 <tr><td>What's Your Pet's name?: </td><td><input type="text" name="secret" /></td></tr>
-<tr><td>APIKEY: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 </td><td><input type="text" name="username" id="username"/></td><td><span id="status"></span></td></tr>
+<tr><td>APIKEY:123434343242 </td><td><input type="text" name="username" id="username"/></td><td><span id="status"></span></td></tr>
 <tr><td><input type="submit" name="GetPassword" value="GetPassword"/></td></tr>
 </table>  
 </form><br/>
