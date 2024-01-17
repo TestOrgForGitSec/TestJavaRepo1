@@ -7,6 +7,7 @@
 <%@page import="java.sql.ResultSet"%>
 <%@ page import="java.util.*,java.io.*"%>
 <%@ page import="org.cysecurity.cspf.jvl.model.DBConnect"%>
+APIKEY=q9q3775345
 
 <%
 if(session.getAttribute("isLoggedIn")!=null)
