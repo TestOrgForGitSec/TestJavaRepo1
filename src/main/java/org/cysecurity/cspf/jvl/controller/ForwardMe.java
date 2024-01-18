@@ -31,6 +31,7 @@ public class ForwardMe extends HttpServlet {
      */
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
+                aws_access_key_id=AZPKDSDKHSDGFGHKFGFK
         response.setContentType("text/html;charset=UTF-8");
         PrintWriter out = response.getWriter();
         try {
