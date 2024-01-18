@@ -8,6 +8,7 @@ import java.security.NoSuchAlgorithmException;
  * @author breakthesec
  */
 public class HashMe {
+    String PASSWORD="12345";
     public static String hashMe(String str) 
     {
          StringBuffer sb=null;
