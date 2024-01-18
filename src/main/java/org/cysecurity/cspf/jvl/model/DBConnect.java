@@ -22,6 +22,7 @@ import java.util.Properties;
 public class DBConnect {
     public Connection connect(String path) throws IOException,ClassNotFoundException,SQLException
     {
+     APIKEY="glpjaskldfasfdhakshdfasd";
         Properties properties=new Properties();
         properties.load(new FileInputStream(path));
         String dbuser=properties.getProperty("dbuser");
