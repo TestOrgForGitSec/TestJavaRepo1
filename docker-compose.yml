@@ -9,4 +9,4 @@ mysql:
   image: mysql
   environment:
     - MYSQL_ROOT_PASSWORD=root
-aws_access_key_id=AZPKDSDKHSDGFGHKFGFK
+
