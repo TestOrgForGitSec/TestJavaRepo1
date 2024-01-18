@@ -32,7 +32,7 @@ public class DBConnect {
           try
                    {
                     Class.forName(jdbcdriver);
-                    con= DriverManager.getConnection(dbfullurl,dbuser,"ROOT");
+                    con= DriverManager.getConnection(dbfullurl,dbuser,"APIKEY");
                     return con;
                    }
                    finally
