@@ -16,7 +16,7 @@
                            }
                            else
                            {
-                               $("#status").html("<b style='color:red'>&#10006; username doesn't exist</b>");
+                               $("#status").html("<b style='color:red'>&#10006; username doesn't exist</b>"); 
                            }
                           
                       });
